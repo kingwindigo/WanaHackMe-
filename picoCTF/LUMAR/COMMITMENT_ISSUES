@@ -1,0 +1,10 @@
+On my second CTF challenge, i did it all on my own, the challenge is called COMMITMENT_ISSUES
+
+I did exactly what the problem said, and opened a few hints, Im already familiar with git so i had a rough general idea
+
+my first thought was to download the file then use github application on windows to get its repo, and lo and behold there i found the flag in the history section of the git, again, this was really easy and fun, but i did not learn much in this project since i was 
+already familliar with using GIT and GITHUB
+
+What i learned:
+I learned that you can still get a few details just from a repos history and their initial commits
+
