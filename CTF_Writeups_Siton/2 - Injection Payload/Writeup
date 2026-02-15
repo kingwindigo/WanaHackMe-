@@ -1,0 +1,18 @@
+# Writeup 2 - Injection payload
+- Christian Jay Siton
+
+This time, I attempted a PicoCTF for web exploiting called Local Authority. The challenge gave me a website that led me to a login page.
+Login pages typically require you to input a username and password, which is commonly exploited with an injection payload.
+I learned injection payloads exploits the vulnerability of input checks of a website.
+
+An injection payload I learned looks something like this:
+username/password: " or ""="
+
+This works because in systems like SQL queries it would look something like this:
+* SELECT * FROM Users WHERE Name ="" or ""="" AND Pass ="" or ""=""
+which would always return true.
+
+Although the website did some checks to validate inputs to some extent, it was not enough as we able to intercept
+and see the script responsible for the username and password, worse it contained the actual values for those fields.
+Using the actual username and password required by the website contained in those scripts, I successfully
+logged in and obtained the flag.
