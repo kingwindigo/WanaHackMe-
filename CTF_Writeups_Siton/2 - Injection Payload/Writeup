@@ -16,3 +16,5 @@ Although the website did some checks to validate inputs to some extent, it was n
 and see the script responsible for the username and password, worse it contained the actual values for those fields.
 Using the actual username and password required by the website contained in those scripts, I successfully
 logged in and obtained the flag.
+
+![Captured Flag](./Screenshot 2026-02-15 111151.png)
