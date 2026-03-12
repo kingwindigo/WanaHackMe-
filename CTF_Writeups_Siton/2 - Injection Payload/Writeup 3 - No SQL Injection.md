@@ -33,4 +33,4 @@ echo "cGljb0NURntqQmhEMnk3WG9OelB2XzFZeFM5RXc1cUwwdUk2cGFzcWxfaW5qZWN0aW9uXzI1Ym
 ```
 
 
-![[Screenshot 2026-03-12 110120.png]]
+![Webshell Commands for No SQL Injection](CTF_Writeups_Siton/2 - Injection Payload/Screenshot 2026-03-12 110120.png)
