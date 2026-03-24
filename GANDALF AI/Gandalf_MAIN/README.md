@@ -1,0 +1,19 @@
+COCOLOCO lvl 1
+POTENTIAL lvl 2
+WAVELENGTH lvl 3
+underground lvl 4
+BESTOWED lvl 5
+UNDERPASS lvl 6
+DEBUTANTE lvl 7
+OCTOPODES lvl 8
+
+P
+Octopuses
+
+Y
+A
+
+HANGMAN GAME
+PASSWORD
+DROWSSAP
+
