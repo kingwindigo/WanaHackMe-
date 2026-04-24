@@ -8,9 +8,9 @@ As usual, I started with the basic reconnaissance commands: `cd` to navigate to 
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ee30c317-af5c-4faf-9a63-54154d6d19a8" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b6a57ffd-d72c-4eb9-b6ee-a471b7393a29" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cd1652ca-eef3-4ce5-acbb-66175745b0c4" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ee30c317-af5c-4faf-9a63-54154d6d19a8" width="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b6a57ffd-d72c-4eb9-b6ee-a471b7393a29" width="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cd1652ca-eef3-4ce5-acbb-66175745b0c4" width="350"/></td>
   </tr>
 </table>
 
