@@ -6,6 +6,13 @@ This is my first Level 2 challenge on crackmes.one, and it was made by pratdayze
 
 As usual, I started with the basic reconnaissance commands: `cd` to navigate to the directory, `ls` to list the contents, `file` to identify the file type, and `wine` to execute it.
 
-<img width="250" height="928" alt="Screenshot 2026-04-24 095239" src="https://github.com/user-attachments/assets/ee30c317-af5c-4faf-9a63-54154d6d19a8" /> <img width="250" height="923" alt="Screenshot 2026-04-24 095248" src="https://github.com/user-attachments/assets/b6a57ffd-d72c-4eb9-b6ee-a471b7393a29" /> <img width="250" height="916" alt="Screenshot 2026-04-24 095257" src="https://github.com/user-attachments/assets/cd1652ca-eef3-4ce5-acbb-66175745b0c4" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ee30c317-af5c-4faf-9a63-54154d6d19a8" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b6a57ffd-d72c-4eb9-b6ee-a471b7393a29" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cd1652ca-eef3-4ce5-acbb-66175745b0c4" width="250"/></td>
+  </tr>
+</table>
+
 
 
